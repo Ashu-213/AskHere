@@ -119,7 +119,7 @@ Fully responsive design
 Fork the repository
 Clone it locally:
 
-git clone https://github.com/your-username/AskHere.git
+git clone https://github.com/sampadatiwari30/AskHere.git
 cd AskHere
 
 
